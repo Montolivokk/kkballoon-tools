@@ -1,5 +1,5 @@
 """
-daily_report.py
+daily_report
 รายงานยอดขายประจำวัน - KKBalloon
 อ่านข้อมูลจาก orders.csv และแสดงสรุปยอดขายเป็นภาษาไทย
 
